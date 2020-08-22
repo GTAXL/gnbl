@@ -1,0 +1,2 @@
+# gnbl
+GTAXLnet DNSBL
